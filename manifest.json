@@ -1,0 +1,16 @@
+{
+  "name": "Velo — Seu dinheiro em movimento",
+  "short_name": "Velo",
+  "description": "Rotina e finanças compartilhadas para casais. Desenvolvido por Gabriel Gonçalves.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070708",
+  "theme_color": "#070708",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
